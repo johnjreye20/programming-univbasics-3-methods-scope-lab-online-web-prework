@@ -15,4 +15,4 @@ end
 
 def switchup
   status = "Welcome To This House."
-  phrase = "This Is Not My House Anymore."
+  phrase = "Do A Barrel Roll."
