@@ -12,3 +12,7 @@ end
 def link 
   puts link ="It's Dangerous To Go Alone! Take This."
 end
+
+def switchup
+  status = "Welcome To This House."
+  phrase = "This Is Not My House Anymore."
